@@ -1,0 +1,11 @@
+video3.mp4
+video3-trimed.mp4
+yolov3-old.weights
+
+save_img/vehicle_car_2.jpg
+save_img/vehicle_car_3.jpg
+save_img/vehicle_car_1.jpg
+yolov3-tiny.weights
+yolov3.weights
+cfg/yolov3-tiny.cfg
+cfg/yolov3.cfg
